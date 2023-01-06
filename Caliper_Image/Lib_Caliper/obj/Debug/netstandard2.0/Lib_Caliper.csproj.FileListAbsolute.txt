@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\bin\Debug\netstandard2.0\Lib_Caliper.deps.json
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\bin\Debug\netstandard2.0\Lib_Caliper.dll
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\bin\Debug\netstandard2.0\Lib_Caliper.pdb
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.AssemblyInfo.cs
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.dll
+C:\Users\Admin\Documents\[SP]Visual Studio 2019\Caliper_Image\Lib_Caliper\obj\Debug\netstandard2.0\Lib_Caliper.pdb
